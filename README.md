@@ -1,0 +1,2 @@
+# Madison-South
+Madison Central Dixie Softball is a website done by Natalie Major and Hannah Collins. Madison Central is the local Dixie league in Jackson, Tennessee. We chose to do our website on them because we both have experiences playing softball for them. Our client, Rick Shakelford, which is the League’s President was thrilled when we approach him for this task.  We tried to include everything that our viewers would be interested in knowing about Madison Central.
