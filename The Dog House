@@ -74,58 +74,22 @@
     </div>
     <!-- /#header -->
 
-    <div id="staff" class="light-wrapper">
-        <section class="ss-style-top"></section>
-        <div class="container inner">
-            <h2 class="section-title text-center">About Us</h2>
-            <p class="lead main text-center">What we have to offer</p>
-            <div class="row text-center story">
-                <div class="col-sm-4">
-                    <div class="col-wrapper">
-                        <div class="about">
-                          <img src="img/about/warmup.png">
-                          <p>Pope Park has several open fields that are great for teams who need to warm up before the games.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="col-wrapper">
-                        <div class="about">
-                          <img src="img/about/playground.png">
-                          <p>We offer a playground that is great for kids of all ages to enjoy while you can watch the games.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-4">
-                    <div class="col-wrapper">
-                        <div class="about">
-                          <img src="img/about/picnic.png">
-                          <p>There is a picnic area in the back behind Field 2 and Field 3 that allow teams to be in the shade and relax.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-         </div>
-          <center><a href="https://goo.gl/maps/vyKAYvAAMex" class="maps">Pope park- 1643 Westover Road, Jackson, TN 38305</a></center>
-            <!-- /.services --> 
-        <!-- /.container -->
-        <section class="ss-style-bottom"></section>
-    </div><!-- #about -->
+   
 
 
     <div id="staff" class="parallax pricing">
         <div class="container inner">
 
-            <h2 class="section-title text-center">Our Staff</h2>
-            <p class="lead main text-center">"For the love of the game"</p>
+            <h2 class="section-title text-center">Our Employees</h2>
+            <p class="lead main text-center">We treat you like family.</p>
             
             <div class="row text-center staff">
                 <div class="col-sm-4">
                     <div class="col-wrapper">
                         <div class="info">
                           <img src="img/staff/ump.png">
-                          <h3>Ben Fesmire and Tom Major</h3>
-                          <p>Ben Fesmire and Tom Major are usually partners. You will see them umpiring Angels, Ponytails, Belles, and Debs on Field 2 and Field 3.</p>
+                          <h3>Willow Martindale</h3>
+			  <p> </p>
                         </div>
                     </div>
                 </div>
@@ -133,8 +97,8 @@
                     <div class="col-wrapper">
                         <div class="info">
                           <img src="img/staff/rick.png">
-                          <h3>Rick Shakelford</h3>
-                          <p>Rick Shakelford is the League's President. His job is to scheduled games, make sure the fields get ready, and hire workers.</p>
+                          <h3> dog </h3>
+			  <p> </p>
                         </div>
                     </div>
                 </div>
@@ -143,7 +107,7 @@
                         <div class="info">
                           <img src="img/staff/natalie.png">
                           <h3>Natalie Major</h3>
-                          <p>Natalie Major is fairly new to umpiring but she has had alot of experience playing ball. She umpires on Field 1 with the Sweeties and Darlings.</p>
+			  <p> </p>
                         </div>
                     </div>
                 </div>
@@ -155,11 +119,11 @@
     </div><!-- #staff -->
 
 
-    <div id="concessions" class="light-wrapper">
+    <div id="products" class="light-wrapper">
         <section class="ss-style-top"></section>
         <div class="container inner">
-            <h2 class="section-title text-center">Concessions</h2>
-            <p class="lead main text-center">Good food served by great people</p>
+            <h2 class="section-title text-center">Products</h2>
+            <p class="lead main text-center"> Doggy needs at your convinence. </p>
 
               <div class="row">
                 <div class="col-sm-3 col-md-3">
